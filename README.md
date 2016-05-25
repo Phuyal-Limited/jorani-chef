@@ -1,4 +1,4 @@
-# learn_chef_httpd
+# Install_Jorani
 
 Installs and configures Jorani.
 
