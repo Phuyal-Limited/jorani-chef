@@ -13,4 +13,5 @@ suites:
   - name: jorani
     run_list:
       - recipe[jorani::default]
+      - recipe[jorani::mysql]
     attributes:
